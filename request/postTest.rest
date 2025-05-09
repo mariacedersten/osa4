@@ -1,0 +1,9 @@
+POST http://localhost:3003/api/blogs/
+Content-Type: application/json
+
+    { 
+        "title": "Heipparallaa",
+        "author": "Heikki",
+        "url": "wwwf dsString",
+        "likes": 12
+    }
